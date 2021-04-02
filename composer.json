@@ -1,6 +1,6 @@
 {
     "name": "pdapnz/yii2-sms-sigmasms",
-    "description": "A SigamaSMS plugin for Yii2 SMS, to make sending SMS messages as easy as emails!",
+    "description": "A SigmaSMS plugin for Yii2 SMS, to make sending SMS messages as easy as emails!",
     "keywords": ["yii2", "sms", "yii2 sms", "text message", "sigamasms", "yii2 sigamasms"],
     "homepage": "https://github.com/pdapnz/yii2-sms-sigmasms",
     "type": "yii2-extension",
