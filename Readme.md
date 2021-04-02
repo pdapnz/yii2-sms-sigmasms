@@ -1,4 +1,4 @@
-# Yii2 SMS Twilio
+# Yii2 SigmaSMS
 
 A [SigmaSMS](https://sigmasms.ru/) plugin for Yii2 based extention [Yii2 SMS](https://github.com/wadeshuler/yii2-sms), to make sending SMS messages as easy as emails!
 
